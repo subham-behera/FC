@@ -1,0 +1,19 @@
+[
+  { "id": 1, "jerseyNo": 1, "name": "Manuel Neuer", "image": "https://www.shutterstock.com/image-photo/06th-april-2022-estadio-la-260nw-2145812565.jpg", "role": "Goalkeeper" },
+  { "id": 2, "jerseyNo": 4, "name": "Sergio Ramos", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMEjOnLqVizCiqPH2hl9dXv3Ouk1x-cUuUA&s", "role": "Defenders" },
+  { "id": 3, "jerseyNo": 3, "name": "Giorgio Chiellini", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPD6VyWFVEXQ5YjEtHSw49DlUsE3TruY1hQ&s", "role": "Defenders" },
+  { "id": 4, "jerseyNo": 6, "name": "Paul Pogba", "image": "https://images6.alphacoders.com/938/938263.jpg", "role": "Midfielders" },
+  { "id": 5, "jerseyNo": 8, "name": "Toni Kroos", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1YRTY8o9yOvHVRxYAO9U_YeOcgVItge6bw&s", "role": "Midfielders" },
+  { "id": 6, "jerseyNo": 11, "name": "Thomas Müller", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3UW3zwMW2IcAUiNhB2k7oRm3TxfeI-qjAg&s", "role": "Midfielders" },
+  { "id": 7, "jerseyNo": 7, "name": "Cristiano Ronaldo", "image": "https://rukminim2.flixcart.com/image/850/1000/l0lbrm80/poster/4/y/c/medium-cristiano-ronaldo-sports-player-hd-matte-finish-poster-original-imagcc9pqczvrg6j.jpeg?q=90&crop=false", "role": "Forwards" },
+  { "id": 8, "jerseyNo": 10, "name": "Lionel Messi", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz0JFf1Fxt_oVzegRN8Hbj1a00H8T7KS_dQ&s", "role": "Forwards" },
+  { "id": 10, "jerseyNo": 10, "name": "Kylian Mbappé", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2ORyw3tKHT8aokdONpsJCyfEFw4a4KwiLQ&s", "role": "Forwards" },
+  { "id": 11, "jerseyNo": 5, "name": "Pep Guardiola", "image": "https://prod-media.beinsports.com/image/1713132001962_bd914c6b-b6f9-4c2a-9704-42784eee6b5e.jpg", "role": "Coach" },
+  { "id": 12, "jerseyNo": 1, "name": "Zinedine Zidane", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VdQho2C9qPlMUZAGINAIIxJdlZo_iw5bHQ&s", "role": "Coach" },
+  { "id": 13, "jerseyNo": 13, "name": "Jan Oblak", "image": "https://wallpapercave.com/wp/wp2282804.jpg", "role": "Goalkeeper" },
+  { "id": 14, "jerseyNo": 2, "name": "Virgil van Dijk", "image": "https://www.thisisanfield.com/wp-content/uploads/P2023-11-12-Liverpool_Brentford-99.jpg", "role": "Defenders" },
+  { "id": 15, "jerseyNo": 5, "name": "Raphael Varane", "image": "https://media.gq-magazine.co.uk/photos/620540cb68071f7ecff06fb9/16:9/w_2560%2Cc_limit/100222_Rafael-Varane_01.jpg", "role": "Defenders" },
+  { "id": 18, "jerseyNo": 18, "name": "Zlatan Ibrahimović", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCr8bGucc5XBay_AT1TeDHAqaeg1l2Ryovw&s", "role": "Forwards" },
+  { "id": 19, "jerseyNo": 14, "name": "Kevin De Bruyne", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gcVcPlfCGwtUjSu_DpqP8KD3eag9w2UyIw&s", "role": "Midfielders" },
+  { "id": 20, "jerseyNo": 21, "name": "Erling Haaland", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHisEHf6X9RyAQCg2DRhggZEETyq4GHPoneQ&s", "role": "Forwards" }
+]
