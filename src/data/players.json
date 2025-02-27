@@ -11,7 +11,7 @@
   { "id": 11, "jerseyNo": 5, "name": "Pep Guardiola", "image": "https://prod-media.beinsports.com/image/1713132001962_bd914c6b-b6f9-4c2a-9704-42784eee6b5e.jpg", "role": "Coach" },
   { "id": 12, "jerseyNo": 1, "name": "Zinedine Zidane", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VdQho2C9qPlMUZAGINAIIxJdlZo_iw5bHQ&s", "role": "Coach" },
   { "id": 13, "jerseyNo": 13, "name": "Jan Oblak", "image": "https://wallpapercave.com/wp/wp2282804.jpg", "role": "Goalkeeper" },
-  { "id": 14, "jerseyNo": 2, "name": "Virgil van Dijk", "image": "https://www.thisisanfield.com/wp-content/uploads/P2023-11-12-Liverpool_Brentford-99.jpg", "role": "Defenders" },
+  { "id": 14, "jerseyNo": 2, "name": "Virgil van Dijk", "image": "https://imgs.search.brave.com/QkNEnWDNd8vJAwllqblreXxaScArcAeD-JSaw6gpMkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvdmlyZ2lsLXZh/bi1kaWprLXBpY3R1/cmVzLW55ODhqd3Ju/eTlxdTJnbzYuanBn", "role": "Defenders" },
   { "id": 15, "jerseyNo": 5, "name": "Raphael Varane", "image": "https://media.gq-magazine.co.uk/photos/620540cb68071f7ecff06fb9/16:9/w_2560%2Cc_limit/100222_Rafael-Varane_01.jpg", "role": "Defenders" },
   { "id": 18, "jerseyNo": 18, "name": "Zlatan Ibrahimović", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCr8bGucc5XBay_AT1TeDHAqaeg1l2Ryovw&s", "role": "Forwards" },
   { "id": 19, "jerseyNo": 14, "name": "Kevin De Bruyne", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gcVcPlfCGwtUjSu_DpqP8KD3eag9w2UyIw&s", "role": "Midfielders" },

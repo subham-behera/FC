@@ -33,17 +33,17 @@ const Home = () => {
             date="15 June"
             time="20:00"
             logo1="https://cdn.freebiesupply.com/images/large/2x/manchester-city-logo-png-transparent.png"
-            logo2="https://static.vecteezy.com/system/resources/previews/015/863/617/original/arsenal-logo-on-transparent-background-free-vector.jpg"
+            logo2="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGceMYcD3nXxMsUaEsMUA9W9ip8icJfRqjQ&s"
             team1="Man City"
-            team2="Arsenal"
+            team2="Chelsea"
           />
           <FixturesCard
             date="10 August"
             time="20:00"
             logo1="https://cdn.freebiesupply.com/images/large/2x/manchester-city-logo-png-transparent.png"
-            logo2="https://static.vecteezy.com/system/resources/previews/015/863/617/original/arsenal-logo-on-transparent-background-free-vector.jpg"
+            logo2="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxcuBewGfK7y6K4uefDU1AL0bM1y7SSJ4kw&s"
             team1="Man City"
-            team2="Arsenal"
+            team2="Nottingham"
           />
         </div>
       </section>
