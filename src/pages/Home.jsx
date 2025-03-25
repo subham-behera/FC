@@ -51,7 +51,7 @@ const Home = () => {
       {/* News Section */}
       <section className="py-10">
         <h2 className="text-2xl font-bold mb-4">Latest News</h2>
-        <div className="flex flex-wrap justify-center gap-6">
+        <div className="flex flex-wrap justify-center gap-4 px-1">
           <MidNews
               image="https://www.mancity.com/meta/media/ssmjxzaw/lauren-hemp-uwcl-preview.jpg?width=1136"
               title="Hemp: City out to make Champions League statement ahead of Paris FC trip"
