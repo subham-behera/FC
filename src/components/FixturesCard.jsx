@@ -37,7 +37,7 @@ function FixturesCard({ date, team1, logo1, team2, logo2, time }) {
             Preview
           </a>
           <a
-            href="https://insider.in/football-in-online"
+            href="/subscription"
             className="text-sm py-2 px-5 bg-blue-400 text-white rounded-full hover:bg-blue-500"
           >
             Buy Ticket

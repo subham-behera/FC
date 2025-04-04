@@ -10,6 +10,7 @@ import samplePlayers from './data/players.json';
 import Fixtures from './pages/Fixtures';
 import News from './pages/News';
 import BlogPost from './pages/BlogPost';
+import Subscription from './pages/Subscription';
 
 function App() {
   return (
@@ -24,7 +25,8 @@ function App() {
             <Route path="/shopping" element={<Shopping />} />
             <Route path="/fixtures" element={<Fixtures />} />
             <Route path="/login" element={<Login />} />
-            <Route path="/blogpost" element={<BlogPost />} /> 
+            <Route path="/blogpost" element={<BlogPost />} />
+            <Route path="/subscription" element={<Subscription/>} /> 
           </Routes>
         </main>
         <Footer />
